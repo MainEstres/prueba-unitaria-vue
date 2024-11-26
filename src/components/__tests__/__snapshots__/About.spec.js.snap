@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Componente About > Comparando snapshot 1`] = `
+"<div>
+  <h1> Esto es una pagina de About </h1>
+</div>"
+`;
